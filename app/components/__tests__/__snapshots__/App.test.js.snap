@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly 1`] = `
+<div>
+  <h1>
+    Your React Node app is set up!
+  </h1>
+  <Connect(List) />
+</div>
+`;
